@@ -1,13 +1,18 @@
-<h2 align="center">
-🌸 hello! 🌸
-<br>
-</h2>
+<h3 align="center">
+hello!
+</h3>
+
+---
 
 <p align="center">
 i'm spencer hewitt, an infosec student currently located in western NC, planning on moving to the DMV area soon!
-<br><br>
+</p>
+
+<p align="center">
 in my free time i work on full-stack web projects, play competitive games, and rock climb
 </p>
+
+<p align="center">🌸</p>
 
 <h3 align="center">frameworks/libraries i use:</h3>
 <p align="center">
@@ -18,4 +23,17 @@ in my free time i work on full-stack web projects, play competitive games, and r
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react logo"/>
 <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux logo"/>
 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="vuejs logo"/>
+</p>
+
+<h3 align="center">languages:</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3 logo" />
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5 logo" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript logo" />
+<img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="latex logo" />
+<img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="powershell logo" />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python logo" />
+<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="shellscript logo" />
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript logo" />
+<img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="windows terminal logo" />
 </p>
