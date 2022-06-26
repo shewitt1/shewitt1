@@ -1,7 +1,7 @@
 <h3 align="center">
-<img src="/assets/left.png" width="75px" height="75px"/>           
+<img src="/assets/left.gif" width="75px" height="75px"/>           
 hello!
-<img src="/assets/right.png" width="75px" height="75px"/>           
+<img src="/assets/right.gif" width="75px" height="75px"/>           
 </h3>
 
 ---
