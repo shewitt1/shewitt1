@@ -1,5 +1,7 @@
 <h3 align="center">
+<img src="/assets/left.png" width="75px" height="75px"/>           
 hello!
+<img src="/assets/right.png" width="75px" height="75px"/>           
 </h3>
 
 ---
@@ -14,7 +16,7 @@ in my free time i work on full-stack web projects, compete in CTFs, play competi
 
 <p align="center">🌸</p>
 
-<h3 align="center">stuff i like</h3>
+<h3 align="center">tools i like!</h3>
 
 ---
 <p align="center">
@@ -37,10 +39,9 @@ in my free time i work on full-stack web projects, compete in CTFs, play competi
 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="vuejs logo"/>
 </p>
 
-<h3 align="center">languages</h3>
+<h3 align="center">languages i use!</h3>
 
 ---
-
 <p align="center">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3 logo"/>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5 logo"/>
@@ -52,11 +53,17 @@ in my free time i work on full-stack web projects, compete in CTFs, play competi
 <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="windows terminal logo"/>
 </p>
 
-<h3 align="center">stuff im learning:</h3>
+<h3 align="center">currently learning!</h3>
+
+---
 <p align="center">
 <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="unreal engine logo"/>
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript logo"/>
 </p>
+
+
+
+
 
 <h1 align="center">UNDER CONSTRUCTION</h1>
 <p align="center">done soon :)</p>
