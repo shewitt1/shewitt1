@@ -7,7 +7,7 @@ hello!
 ---
 
 <p align="center">
-i'm spencer hewitt, an infosec student currently located in western NC, planning on moving to the DMV area soon!
+i'm spencer hewitt, an infosec student currently located in western NC
 </p>
 
 <p align="center">
